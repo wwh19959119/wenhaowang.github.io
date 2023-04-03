@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my [CV](http://wenhaowang.github.io/files/CV.pdf) here.
+You can find my [CV](http://wwh19959119.github.io/files/CV.pdf) here.
