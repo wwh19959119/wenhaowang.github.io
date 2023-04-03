@@ -9,7 +9,7 @@ author_profile: true
 ___
 
 ### <span style="color:#52ADC8">CRAlert: Hardware-Assisted Code Reuse Attack Detection</span>
-<b>Wenhao Wang<\b>, Guangyu Hu, Xiaolin Xu, Jiliang Zhang.\
+<b>Wenhao Wang</b>, Guangyu Hu, Xiaolin Xu, Jiliang Zhang.\
 In *IEEE Transactions on Circuits and Systems II: Express Briefs*, 69(3), pp.1607-1611 , 2021.\
 [[PDF](https://ieeexplore.ieee.org/document/9584443)] 
   
@@ -17,12 +17,12 @@ In *IEEE Transactions on Circuits and Systems II: Express Briefs*, 69(3), pp.160
 ___
 
 ### <span style="color:#52ADC8">Constructive Use of Process Variations: Reconfigurable and High-Resolution Delay-Line</span>
-<b>Wenhao Wang<\b>, Yukui Luo, Xiaolin Xu.\
+<b>Wenhao Wang</b>, Yukui Luo, Xiaolin Xu.\
 In *2021 Design, Automation & Test in Europe Conference & Exhibition (DATE)*, 2021.\
 [[PDF](https://ieeexplore.ieee.org/document/9473969)] 
 
 ### <span style="color:#52ADC8">A Survey of Recent Attacks and Mitigation on FPGA Systems</span>
- Shijin Duan, <b>Wenhao Wang<\b>, Yukui Luo, Xiaolin Xu.\
+ Shijin Duan, <b>Wenhao Wang</b>, Yukui Luo, Xiaolin Xu.\
 In *2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)*, 2021.\
 [[PDF](https://ieeexplore.ieee.org/abstract/document/9516757)] 
 
