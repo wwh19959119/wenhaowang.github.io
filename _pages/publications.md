@@ -10,7 +10,7 @@ ___
 
 ### <span style="color:#52ADC8">CRAlert: Hardware-Assisted Code Reuse Attack Detection</span>
 <b>Wenhao Wang</b>, Guangyu Hu, Xiaolin Xu, Jiliang Zhang.\
-In *IEEE Transactions on Circuits and Systems II: Express Briefs*, 69(3), pp.1607-1611 , 2021.\
+In *IEEE Transactions on Circuits and Systems II: Express Briefs*, 69(3), pp.1607-1611 , 2022.\
 [[PDF](https://ieeexplore.ieee.org/document/9584443)] 
   
 ## 2021
