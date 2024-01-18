@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+___
+### <span style="color:#52ADC8">Memorization in Self-Supervised Learning Improves Downstream Generalization</span>
+In ICLR 2024
+
 
 ## 2022
 ___
