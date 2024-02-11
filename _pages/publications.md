@@ -7,8 +7,8 @@ author_profile: true
 ## 2024
 ___
 ### <span style="color:#52ADC8">Memorization in Self-Supervised Learning Improves Downstream Generalization</span>
-In ICLR 2024
-
+In *The Twelfth International Conference on Learning Representations (ICLR)*, 2024.\
+[[PDF](https://arxiv.org/pdf/2401.12233.pdf)] 
 
 ## 2022
 ___
