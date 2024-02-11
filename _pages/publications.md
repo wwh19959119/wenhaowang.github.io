@@ -9,7 +9,7 @@ ___
 
 ### <span style="color:#52ADC8">Memorization in Self-Supervised Learning Improves Downstream Generalization</span>
 <b>Wenhao Wang</b>, Muhammad Ahmad Kaleem, Adam Dziedzic, Michael Backes, Nicolas Papernot, Franziska Boenisch.\
-In *The Twelfth International Conference on Learning Representations (ICLR)*, 2024.\
+In *The Twelfth International Conference on Learning Representations (ICLR)*, 2024.
 
 ## 2022
 ___
