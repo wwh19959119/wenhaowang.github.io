@@ -13,6 +13,7 @@ I am currently a PhD student co-supervised by [Prof. Michael Backes](https://cis
 Trustworthy Machine Learning (data security and privacy protection)
 
 ## What's New
+[09/2024] One paper accepted at Neurips'24!\
 [02/2024] I pass my Qualification Exam!\
 [01/2024] One paper accepted at ICLR'24!
 
