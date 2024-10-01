@@ -10,7 +10,7 @@ ___
 ### <span style="color:#52ADC8">Localizing Memorization in SSL Vision Encoders</span>
 <b>Wenhao Wang</b>, Adam Dziedzic, Michael Backes, Franziska Boenisch.\
 In *Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2024.\
-[[arXiv](https://arxiv.org/abs/2401.12233)]
+[[arXiv](https://arxiv.org/abs/2409.19069)]
 
 ### <span style="color:#52ADC8">Memorization in Self-Supervised Learning Improves Downstream Generalization</span>
 <b>Wenhao Wang</b>, Muhammad Ahmad Kaleem, Adam Dziedzic, Michael Backes, Nicolas Papernot, Franziska Boenisch.\
