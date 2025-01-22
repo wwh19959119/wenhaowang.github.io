@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+___
+
+### <span style="color:#52ADC8">Captured by Captions: On Memorization and its Mitigation in CLIP Models</span>
+<b>Wenhao Wang</b>, Adam Dziedzic,  Grace C. Kim, Michael Backes, Franziska Boenisch.\
+In *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025.\
+
 ## 2024
 ___
 
